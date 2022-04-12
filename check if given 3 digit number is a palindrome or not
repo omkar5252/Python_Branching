@@ -1,4 +1,4 @@
-# Problem 7: Write a program to check if given 3 digit number is a palindrome or not
+# Write a program to check if given 3 digit number is a palindrome or not
 
 num = int(input("Enter 3 digit number:"))
 a = num % 10
