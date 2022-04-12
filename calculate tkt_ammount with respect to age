@@ -1,4 +1,4 @@
-# Problem 6 : calculate tkt_ammount with respect to age
+# calculate tkt_ammount with respect to age
 
 age1=int(input("Enter age of first person: "))
 age2=int(input("Enter age of second person: "))
