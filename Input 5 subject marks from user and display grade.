@@ -1,4 +1,4 @@
-# Problem 4 : Input 5 subject marks from user and display grade.
+# Input 5 subject marks from user and display grade.
 
 m = int(input("Enter your Maths marks:"))
 s = int(input("Enter your Science marks:"))
