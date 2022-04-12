@@ -1,4 +1,4 @@
-# Program 5 : program to check if person is eligible to marry or not (male age >=21 and female age>=18)
+# program to check if person is eligible to marry or not (male age >=21 and female age>=18)
 
 age = int(input("Enter your Age:"))
 gender = input("Enter your Gender (M/F):")
